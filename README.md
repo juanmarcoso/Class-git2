@@ -356,7 +356,7 @@ En resumen, las **etiquetas en Git** son esenciales para asignar versiones y cap
 
 <sub>La respuesta debe ser enviada antes de las 23 horas por cada grupo, deben enviar comandos y todo los pasos que harían frente a este conflicto.</sub>
 
->**[Trabajo]()
+>**[Trabajo del grupo "Solucion202"](/Tags-Clase6.pdf)**
 
 ### PORTAFOLIO
 
